@@ -1,0 +1,6 @@
+﻿Capa,Tecnología
+**Framework**,React 19 + TypeScript + Vite
+**Estilos**,Tailwind CSS v3 + shadcn/ui
+**Fuentes**,"Oswald, Space Grotesk, JetBrains Mono"
+**Gráficos**,WebGL (shaders nativos)
+**Animaciones**,GSAP + requestAnimationFrame

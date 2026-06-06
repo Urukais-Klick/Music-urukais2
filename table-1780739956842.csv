@@ -1,0 +1,8 @@
+﻿Efecto,Descripción
+**🌐 Neon Broadcast Grid**,"Shader WebGL con grid de perspectiva 3D, puntos de neón cian/fucsia que pulsan, y **lente magnética** que sigue el ratón"
+**✨ Neon Text Scramble**,Texto que se descifra cíclicamente desde caracteres aleatorios cyber
+**📊 Audio Visualizer**,40 barras de neón que simulan un ecualizador en tiempo real
+**📺 VHS Video Portrait**,"Efecto CRT con scanlines, aberración cromática, y parpadeo analógico"
+**🎯 Custom Cursor**,Cursor de neón con anillo flotante que reacciona a elementos clicables
+**🎴 Sticky Lineup**,Tarjetas de artistas que se apilan con `position: sticky` al hacer scroll
+**📡 Live Feed**,Grid de 3 columnas con marquesinas animadas en direcciones opuestas
