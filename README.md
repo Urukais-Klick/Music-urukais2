@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28663475/README.md)
-# Music-urukais2# React + TypeScript + Vite
+# React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
